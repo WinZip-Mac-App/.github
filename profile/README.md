@@ -51,7 +51,6 @@ The app supports **macOS Monterey, Ventura, and Sonoma**, as well as **Apple Sil
 ## Screenshots  
 
 ![WinZip for Mac Interface](https://www.winzip.com/static/wz/images/pages/file-formats/mac-unzip-from-finder.png)  
-![WinZip Mac Preview](https://m.media-amazon.com/images/I/618mROwfjXL._AC_UF1000,1000_QL80_.jpg)  
 
 ---
 
