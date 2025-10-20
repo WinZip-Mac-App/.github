@@ -1,4 +1,4 @@
-# WinZip Mac — Professional File Compression
+# WinZip Pro Mac — Professional File Compression
 
 <div align="center">  
 <img src="https://m.media-amazon.com/images/I/618mROwfjXL._AC_UF1000,1000_QL80_.jpg" alt="WinZip for Mac Icon" width="180">  
